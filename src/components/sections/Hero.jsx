@@ -76,7 +76,7 @@ const HeroRightContainer = styled.div`
 
 const Title = styled.div`
   font-weight: 500;
-  font-size: 50px;
+  font-size: 38px;
   color: ${({ theme }) => theme.text_primary};
   line-height: 68px;
 
@@ -240,7 +240,7 @@ const Hero = () => {
             <HeroLeftContainer>
               <motion.div {...headTextAnimation}>
                 <Title>
-                  Hi, I'm <br />{" "}
+                  Hello, It's me <br />{" "}
                   <span
                     style={{
                       background:
@@ -257,7 +257,7 @@ const Hero = () => {
                   </span>
                 </Title>
                 <TextLoop>
-                  I'm
+                  I'm a
                   <Span>
                     <Typewriter
                       options={{
