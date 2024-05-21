@@ -8,11 +8,17 @@
   font-family: "Poppins", sans-serif;
 }
 
+  :root {
+    --line-color: linear-gradient(135deg, rgb(91, 72, 147), rgb(81, 235, 81), rgb(239, 54, 103)) !important;
+  }
+
+
 body {
   margin: 0px !important;
   padding: 0;
   font-family: "Montserrat", sans-serif;
 }
+
 
 /* width */
 ::-webkit-scrollbar {
