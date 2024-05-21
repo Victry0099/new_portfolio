@@ -474,7 +474,7 @@ export const projects = [
   {
     id: 12,
     title: "gradient genrate",
-    date: "Jan 2021",
+    date: "Oct 2022",
     description:
       "Create a random gradient generator project using HTML for structure, CSS for styling, and JavaScript for interactivity. The project features a user-friendly interface to generate and display random gradients, shows the CSS code for the gradient, and includes functionality to copy the code to the clipboard. This application provides an engaging and interactive experience for users to explore and use different CSS gradients easily",
     image: gradient_css,
@@ -486,7 +486,7 @@ export const projects = [
   {
     id: 13,
     title: "News Website",
-    date: "Jan 2021",
+    date: "Jan 2023",
     description:
       "Develop a real-time news application using React.js for a component-based, responsive UI, and a news API for fetching the latest articles. Features include real-time updates, category filtering, detailed news views, search functionality, and pagination. Ensure a user-friendly experience with intuitive navigation, responsive design, and performance optimizations.",
     image: news,
